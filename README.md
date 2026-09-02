@@ -12,11 +12,11 @@ CareerTrack is a career-focused web application designed to help users organize 
 
 ## ✨ Features
 
-- Career tracking
-- User-focused web interface
-- Django-based application structure
+- Track and organize career-related activities
+- Django-based web application
+- User-focused interface with HTML and CSS
+- Structured application modules
 - Template-based frontend
-- Organized application modules
 
 ## 🚀 Getting Started
 
